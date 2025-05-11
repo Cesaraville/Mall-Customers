@@ -4,7 +4,8 @@
 ## Dataset: Mall Customer Segmentation Data
 ## Preprocessing
 # One-hot encoded categorical variables
-# Scaling relevant numerical features
+# Scaled numerical features using MinMaxScaler and StandardScaler
+# Applied PCA and t-SNE for visualization
 ## Evaluation: KMeans
 # Silhouette Score: 0.591665871638838
 # Davies Bouldin Score: 0.4846581131074428
