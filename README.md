@@ -11,6 +11,6 @@
 # Calinsku Harabasz Score: 1420.9895912666316
 ## Objective:
 # To group customers into meaningful segments using K-Means Clustering, and interpret those clusters to help the business:
-  Identify high-value customer groups
-  Develop personalized marketing strategies
-  Improve customer retention and satisfaction
+  # Identify high-value customer groups
+  # Develop personalized marketing strategies
+  # Improve customer retention and satisfaction
